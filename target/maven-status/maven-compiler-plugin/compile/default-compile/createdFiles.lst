@@ -1,0 +1,7 @@
+com\lanouvelle\webapp\repository\EmployeeProxy.class
+com\lanouvelle\webapp\controller\EmployeeController.class
+com\lanouvelle\webapp\model\Employee.class
+com\lanouvelle\webapp\service\EmployeeService.class
+com\lanouvelle\webapp\repository\EmployeeProxy$1.class
+com\lanouvelle\webapp\WebappApplication.class
+com\lanouvelle\webapp\CustomProperties.class
